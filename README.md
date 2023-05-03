@@ -4,7 +4,7 @@
 </p>
 
 # About <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-I am a graduate Bioinformatics for Health Science student at Universitat Pompeu Fabra. I come from a solid scientific background with a strong interest in data analysis and machine learning. My main fields of interest are molecular and phenotypical evolution and structural bioinformatics. I'm also a huge philosophy and language enthusiast!
+I am a graduate Bioinformatics for Health Science student at Universitat Pompeu Fabra. Previously I finished studies in Molecular Biology. I come from a solid scientific background with a strong interest in data analysis and machine learning. My main fields of interest are molecular and phenotypical evolution and structural bioinformatics. I'm also a huge philosophy and language enthusiast!
 
 ### Summary
 - 🔭 I’m currently working on **differential gene expression analysis in R**
