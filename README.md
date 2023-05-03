@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi!%20My%20name%20is%20Marko;Welcome%20to%2my%20GitHub&font=Fira%20Code&center=true&width=440&height=45&color=A79AF7FF&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi!%20My%20name%20is%20Marko;Welcome%20to%20my%20GitHub&font=Fira%20Code&center=true&width=440&height=45&color=A79AF7FF&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <h3 align="center">I'm a Molecular Biologist</h3>
