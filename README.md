@@ -16,7 +16,7 @@ I am a graduate Bioinformatics for Health Science student at Universitat Pompeu 
 
 ### Connect
 <p align="left">
-<a href="https://linkedin.com/in/iammarcol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iammarcol" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/marko-ludaić-6b7803260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iammarcol" height="30" width="40" /></a>
 <a href="https://instagram.com/iammarcol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iammarcol" height="30" width="40" /></a>
 </p>
 
