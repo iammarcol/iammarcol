@@ -1,7 +1,11 @@
-<p align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!%20My%20name%20is%20Marko;Welcome%20to%20my%20GitHub&font=Fira%20Code&center=true&width=440&height=45&color=A79AF7FF&vCenter=true&pause=1000&size=22)](https://git.io/typing-svg)
+
+<!--- <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi!%20My%20name%20is%20Marko;Welcome%20to%20my%20GitHub&font=Fira%20Code&center=true&width=440&height=45&color=A79AF7FF&vCenter=true&pause=1000&size=22" /></a>
-</p>
+</p> --->
+
+
 
 # About <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 I am a graduate Bioinformatics for Health Science student at Universitat Pompeu Fabra. Previously I finished studies in Molecular Biology. I come from a solid scientific background with a strong interest in data analysis and machine learning. My main fields of interest are molecular and phenotypical evolution and structural bioinformatics. I'm also a huge philosophy and language enthusiast!
