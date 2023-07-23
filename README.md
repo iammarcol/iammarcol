@@ -13,8 +13,8 @@ I am a graduate _Bioinformatics for Health Science_ student at Universitat Pompe
 ### Summary
 - 🔭 I’m currently working on **Protein Language Models**
 - 🌱 I’m currently learning **Neural Networks in Python**
-- 📫 How to reach me: [Email](mailto:marko.ludaic01@estudiant.upf.edu)
 - 💬 Ask me about **molecules, music & philosophy!**
+- 📫 How to reach me: [Email](mailto:marko.ludaic01@estudiant.upf.edu)
 
 
 
