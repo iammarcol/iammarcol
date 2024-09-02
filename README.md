@@ -11,8 +11,8 @@
 I am a graduate _Bioinformatics for Health Science_ student at Universitat Pompeu Fabra, Barcelona. Previously I finished studies in Molecular Biology. I come from a solid scientific background with a strong interest in data analysis and machine learning. My main fields of interest are molecular and phenotypical evolution and structural bioinformatics. I'm also a huge philosophy and language enthusiast!
 
 ### Summary
-- 🔭 I’m currently working on **Protein Language Models**
-- 🌱 I’m currently learning **Neural Networks in Python**
+- 🔭 I’m currently working on **Deep-learning models for RNA-protein prediction**
+- 🌱 I’m currently learning **NNs**
 - 💬 Ask me about **molecules, music & philosophy!**
 - 📫 How to reach me: [Email](mailto:marko.ludaic01@estudiant.upf.edu)
 
