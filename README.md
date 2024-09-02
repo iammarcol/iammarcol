@@ -8,7 +8,7 @@
 
 
 # About <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-I am a PhD Candidate at Scilifelab in the Arne Elofsson group and Stockoholm University. Previously I finished MSc studies in _Bioinformatics for Health Science_ after developing my master thesis at Barcelona Supercomputing Centre in the group of R. Gonzalo Parra and Alfonso Valencia. I come from a solid scientific background with a strong interest in machine learning. My main fields of interest are molecular and phenotypical evolution and structural bioinformatics. I'm also a huge philosophy and language enthusiast!
+I am a PhD Candidate at Scilifelab in Arne Elofsson group and Stockoholm University. Previously I finished MSc studies in _Bioinformatics for Health Science_ after developing my master thesis at Barcelona Supercomputing Centre in the group of R. Gonzalo Parra and Alfonso Valencia. I come from a solid scientific background with a strong interest in machine learning. My main fields of interest are molecular and phenotypical evolution and structural bioinformatics. I'm also a huge philosophy and language enthusiast!
 
 ### Summary
 - 🔭 I’m currently working on **Deep-learning models for RNA-protein prediction**
