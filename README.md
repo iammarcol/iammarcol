@@ -29,4 +29,4 @@ I am a PhD Candidate at Scilifelab in Arne Elofsson group and Stockoholm Univers
 ### Languages
 🇷🇸 native            🇬🇧 native proficiency      🇳🇴 intermediate 
 
-🇪🇸 intermediate      🇮🇹 elementary              🇹🇷 I know how to read!
+🇪🇸 advanced      🇮🇹 elementary              🇹🇷 I know how to read!
