@@ -11,7 +11,7 @@
 I am a PhD Candidate in Bioinformatics at Scilifelab in Arne Elofsson group and Stockoholm University. Previously I finished MSc studies in _Bioinformatics for Health Science_ after developing my master thesis at Barcelona Supercomputing Centre in the group of R. Gonzalo Parra and Alfonso Valencia. I come from a solid scientific background with a strong interest in machine learning. My main fields of interest are molecular and phenotypical evolution and structural bioinformatics. I'm also a huge philosophy and language enthusiast!
 
 ### Summary
-- 🔭 I’m currently working on **Deep-learning models for RNA-protein prediction**
+- 🔭 I’m currently working on **Deep-learning models for RNA and RNA/Protein prediction**
 - 🌱 I’m currently learning **NNs**
 - 💬 Ask me about **molecules, music & philosophy!**
 - 📫 How to reach me: [Email](mailto:marko.ludaic@scilifelab.se)
